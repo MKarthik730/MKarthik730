@@ -37,15 +37,17 @@
 
   ### 📊 Open Source Activity
 
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MKarthik730&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKarthik730&layout=compact&langs_count=7&theme=vision-friendly-dark" />
-  </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MKarthik730&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKarthik730&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKarthik730&theme=vision-friendly-dark&hide_border=true" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKarthik730&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
-</div>>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKarthik730&theme=github_dark" />
+</p>
 
                                                                       </div>
