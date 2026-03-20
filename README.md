@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=MKarthik730&fontSize=80&fontColor=FFFFFF&theme=dark" />
 
-  <h1>Hi, I'm Karthik (Kakashi) ⚡</h1>
+  <h1>Hi, I'm Karthik </h1>
 
   <p>
     <a href="https://www.linkedin.com/in/karthik-motupalli-0b6951318">
