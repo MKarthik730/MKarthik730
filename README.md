@@ -12,15 +12,15 @@
 
   ---
 
-  ### 🌌 Philosophy: "Consistency over Intensity"
+  ### 🌌 "Consistency over Intensity"
 
-  **Computer Science Student at ANITS** | **ML Enthusiast** | **Open Source Contributor**
+  **CS Student @ ANITS** · **ML Enthusiast** · **Open Source Contributor**
 
-  *Currently building privacy-first AI tools and high-performance web apps.*
+  *Building privacy-first AI tools and high-performance web apps.*
 
   ---
 
-  ### 🛠 My Tech Arsenal
+  ### 🛠 Stack
 
   <p>
     <img src="https://skillicons.dev/icons?i=py,js,typescript,react,tailwind,fastapi,postgres,cpp,github,git,linux,figma" />
@@ -33,21 +33,4 @@
   **[Void](https://github.com/MKarthik730/void)** — Privacy-first AI desktop assistant with local LLM integration.  
   **[Memoir](https://github.com/MKarthik730/Memoir)** — Relationship visualization & shared memory application.
 
-  ---
-
-  ### 📊 Open Source Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MKarthik730&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKarthik730&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKarthik730&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKarthik730&theme=github_dark" />
-</p>
-
-                                                                     
+</div>
