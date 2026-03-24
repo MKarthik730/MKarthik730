@@ -57,12 +57,16 @@ A unique application for mapping relationships and preserving shared memories, b
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MKarthik730&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKarthik730&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MKarthik730&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKarthik730&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
