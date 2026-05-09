@@ -1,104 +1,69 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║              K A R T H I K   M O T U P A L L I           ║
-║                                                           ║
-║        CS Student  ·  ML Engineer  ·  Open Source        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=dceefb&height=120&text=👋%20Hello%20World,%20I'm%20Karthik!&fontSize=28&fontColor=1a1a2e&animation=twinkling)
 
-</div>
+**CS Student · Open Source Developer · Builder**
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik%20Motupalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-motupalli-0b6951318)
-&nbsp;
-![Location](https://img.shields.io/badge/Visakhapatnam%2C%20India-333333?style=flat-square&logo=googlemaps&logoColor=white)
-&nbsp;
-![Status](https://img.shields.io/badge/Open%20to%20Collaborate-2ea44f?style=flat-square)
-
-</div>
-
----
-
-## About
-
-Computer Science student at **ANITS**, building at the intersection of **machine learning**, **agentic systems**, and **full-stack engineering**. I write tools that are deliberate, local-first, and built to last — not wrappers around APIs, but things with their own spine.
+Second-year at **ANITS, Visakhapatnam** — building at the intersection of agentic AI, ML systems, and full-stack engineering. I write tools that are deliberate, local-first where it matters, and never just wrappers around someone else's API.
 
 > *"Consistency over intensity."*
 
----
-
-## Stack
-
-```
-Languages     Python · JavaScript · TypeScript · C++
-Frontend      React · Next.js · Tailwind CSS
-Backend       FastAPI · Node.js · PostgreSQL
-AI / ML       LangChain · LangGraph · Anthropic API · FAISS
-Tooling       Git · Docker · Linux · Render
-```
-
----
-
-## Projects
-
-### [Cognitus](https://github.com/MKarthik730/cognitus)
-> Multi-perspective AI reasoning platform
-
-A council of domain-expert AI agents — Legal, Financial, Technical, Risk, and more — that interrogate any problem from their own disciplinary lens in parallel, cross-check each other's reasoning, and converge on a single synthesized verdict. Built for decisions that deserve more than one point of view.
-
-`TypeScript` · `Next.js` · `Claude API` · `LangGraph` · `Tailwind CSS`
-
----
-
-### [Void](https://github.com/MKarthik730/void)
-> Privacy-first local AI assistant
-
-A desktop AI assistant that runs entirely on your machine. No telemetry, no cloud calls, no compromise. Powered by local LLMs with LAN device awareness built in.
-
-`Python` · `FastAPI` · `Local LLM` · `asyncio`
-
----
-
-### [Memoir](https://github.com/MKarthik730/Memoir)
-> Relationship graph & shared memory vault
-
-Map the people in your life and preserve what you've built together — visualized as a living graph. A quiet application for people who care about keeping record of things that matter.
-
-`React` · `TypeScript` · `PostgreSQL` · `D3.js`
-
----
-
-## Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MKarthik730&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MKarthik730&theme=github-compact&hide_border=true&area=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-motupalli-0b6951318)
+[![GitHub](https://img.shields.io/badge/-MKarthik730-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MKarthik730)
+![Vizag](https://img.shields.io/badge/-Visakhapatnam,_India-555?style=flat-square)
 
 </div>
 
 ---
 
-## Currently
+### Things I've built
 
-- Deepening expertise in **LLM architecture** and **multi-agent reasoning systems**
-- Building privacy-first, open-source AI tooling
+**[Cognitus](https://github.com/MKarthik730/cognitus)** — A council of domain-expert AI agents (Legal, Financial, Technical, Risk) that analyze any problem in parallel, cross-check each other's reasoning, and converge on a synthesized verdict. For decisions that deserve more than one point of view.
+`TypeScript` `Next.js` `Claude API` `LangGraph`
+
+**[Void](https://github.com/MKarthik730/void)** — A local LLM-powered desktop assistant that runs entirely on your machine. No telemetry, no cloud calls. Also does LAN device discovery with a custom binary framing protocol.
+`Python` `FastAPI` `asyncio` `Local LLM`
+
+**[Memoir](https://github.com/MKarthik730/Memoir)** — Map the people in your life and preserve what you've built together, visualized as a living relationship graph.
+`React` `FastAPI` `PostgreSQL` `D3.js`
+
+---
+
+### Languages & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MKarthik730&theme=github-dark&hide_border=true" height="160" />
+
+</div>
+
+---
+
+
+### Currently
+
+- Second year CS @ ANITS, Vizag
+- Learning in public — multi-agent systems, LLM architecture, RAG pipelines
 - Open to collaborating on ML or full-stack projects worth building
-
----
-
-<div align="center">
-
-*Visakhapatnam, India · [github.com/MKarthik730](https://github.com/MKarthik730)*
-
-</div>
+- Open to internship opportunities
