@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=dceefb&height=120&text=👋%20Hello%20World,%20I'm%20Karthik!&fontSize=28&fontColor=1a1a2e&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=90c4f9&height=180&text=👋%20Hello%20World,%20I'm%20Karthik!&fontSize=28&fontColor=1a1a2e&animation=twinkling)
 
 **CS Student · Open Source Developer · Builder**
 
