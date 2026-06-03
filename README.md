@@ -4,7 +4,7 @@
 
 **CS Student · Open Source Developer · Builder**
 
-Second-year at **ANITS, Visakhapatnam** — building at the intersection of agentic AI, ML systems, and full-stack engineering. I write tools that are deliberate, local-first where it matters, and never just wrappers around someone else's API.
+Third-year at **ANITS, Visakhapatnam** — building at the intersection of agentic AI, ML systems, and full-stack engineering. I write tools that are deliberate, local-first where it matters, and never just wrappers around someone else's API.
 
 > *"Consistency over intensity."*
 
@@ -18,13 +18,13 @@ Second-year at **ANITS, Visakhapatnam** — building at the intersection of agen
 
 ### Things I've built
 
-**[Cognitus](https://github.com/MKarthik730/cognitus)** — A council of domain-expert AI agents (Legal, Financial, Technical, Risk) that analyze any problem in parallel, cross-check each other's reasoning, and converge on a synthesized verdict. For decisions that deserve more than one point of view.
+**[Cognitus](https://github.com/MKarthik730/cognitus)** — A council of domain-expert AI agents (Legal, Financial, Technical, Risk) that analyze any problem in parallel, cross-check each other's reasoning, and converge on a synthesized verdict. For decisions that deserve more than one point of view.  
 `TypeScript` `Next.js` `Claude API` `LangGraph`
 
-**[Void](https://github.com/MKarthik730/void)** — A local LLM-powered desktop assistant that runs entirely on your machine. No telemetry, no cloud calls. Also does LAN device discovery with a custom binary framing protocol.
-`Python` `FastAPI` `asyncio` `Local LLM`
+**[MediFlow](https://github.com/MKarthik730/mediflow)** — Intelligent healthcare scheduling and queue management system. Not a CRUD app. A system built on algorithms that actually matter — priority queues, bipartite matching, interval trees, and exponential smoothing running in-memory on every request.  
+`Python` `FastAPI` `PostgreSQL` `Leaflet.js`
 
-**[Memoir](https://github.com/MKarthik730/Memoir)** — Map the people in your life and preserve what you've built together, visualized as a living relationship graph.
+**[Memoir](https://github.com/MKarthik730/Memoir)** — Map the people in your life and preserve what you've built together, visualized as a living relationship graph.  
 `React` `FastAPI` `PostgreSQL` `D3.js`
 
 ---
@@ -60,10 +60,9 @@ Second-year at **ANITS, Visakhapatnam** — building at the intersection of agen
 
 ---
 
-
 ### Currently
 
-- Second year CS @ ANITS, Vizag
+- Third year CS @ ANITS, Vizag
 - Learning in public — multi-agent systems, LLM architecture, RAG pipelines
 - Open to collaborating on ML or full-stack projects worth building
 - Open to internship opportunities
