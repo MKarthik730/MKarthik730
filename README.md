@@ -1,68 +1,89 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Karthik</h1>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=90c4f9&height=180&text=👋%20Hello%20World,%20I'm%20Karthik!&fontSize=28&fontColor=1a1a2e&animation=twinkling)
-
-**CS Student · Open Source Developer · Builder**
-
-Third-year at **ANITS, Visakhapatnam** — building at the intersection of agentic AI, ML systems, and full-stack engineering. I write tools that are deliberate, local-first where it matters, and never just wrappers around someone else's API.
-
-> *"Consistency over intensity."*
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-motupalli-0b6951318)
-[![GitHub](https://img.shields.io/badge/-MKarthik730-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MKarthik730)
-![Vizag](https://img.shields.io/badge/-Visakhapatnam,_India-555?style=flat-square)
-
-</div>
+<p align="center">
+  <b>CS Student • Open Source Developer • Builder</b>
+</p>
 
 ---
 
-### Things I've built
+### 🔗 About Me
 
-**[Cognitus](https://github.com/MKarthik730/cognitus)** — A council of domain-expert AI agents (Legal, Financial, Technical, Risk) that analyze any problem in parallel, cross-check each other's reasoning, and converge on a synthesized verdict. For decisions that deserve more than one point of view.  
-`TypeScript` `Next.js` `Claude API` `LangGraph`
-
-**[MediFlow](https://github.com/MKarthik730/mediflow)** — Intelligent healthcare scheduling and queue management system. Not a CRUD app. A system built on algorithms that actually matter — priority queues, bipartite matching, interval trees, and exponential smoothing running in-memory on every request.  
-`Python` `FastAPI` `PostgreSQL` `Leaflet.js`
-
-**[Memoir](https://github.com/MKarthik730/Memoir)** — Map the people in your life and preserve what you've built together, visualized as a living relationship graph.  
-`React` `FastAPI` `PostgreSQL` `D3.js`
-
----
-
-### Languages & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/brain.svg" width="180" alt="Brain illustration"/>
+    </td>
+    <td valign="middle">
+      <b>Hey there! I'm Karthik</b>
+      <p>I'm a computer science student at ANITS, Visakhapatnam, building at the intersection of agentic AI, machine learning, and full-stack engineering.</p>
+      <p>I'm learning about multi-agent systems, LLM architecture, and RAG pipelines while building useful tools and open-source projects.</p>
+      <p><b>⚙️ Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub Stats
+### 🔗 Top Projects (built to solve real problems)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MKarthik730&theme=github-dark&hide_border=true" height="160" />
-
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <ul>
+        <li><b><a href="https://github.com/MKarthik730">COGNITUS</a></b> — A multi-agent AI system where domain-expert agents analyze a problem from different perspectives and combine their findings into a clear verdict.</li>
+        <li><b><a href="https://github.com/MKarthik730">VOID</a></b> — A self-hosted, local-first AI workspace for chat, agents, research, documents, email, notes, calendar, and local model workflows. Your models, your data, and no cloud dependency.</li>
+        <li><b><a href="https://github.com/MKarthik730">MEMOIR</a></b> — A web app for preserving and visualizing personal relationships and shared memories.</li>
+      </ul>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="./assets/laptop.svg" width="160" alt="Laptop illustration"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Currently
+### 🔗 Connect
 
-- Third year CS @ ANITS, Vizag
-- Learning in public — multi-agent systems, LLM architecture, RAG pipelines
-- Open to collaborating on ML or full-stack projects worth building
-- Open to internship opportunities
+<p>
+  <a href="https://github.com/MKarthik730"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/karthik-motupalli-06b951318/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:karthikmotupalli34@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Karthik172/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+> Building is a process. Every project teaches me something new, and every commit is a step forward.
+
+---
+
+### 🔗 Contribution
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKarthik730&theme=github-compact&hide_border=true" alt="Karthik's contribution graph" width="100%"/>
+</p>
+
+---
+
+### 📌 Popular Repositories
+
+<p>
+  <a href="https://github.com/MKarthik730/Memoir">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKarthik730&repo=Memoir&theme=github_dark&hide_border=true" alt="Memoir repository"/>
+  </a>
+  <a href="https://github.com/MKarthik730/osrm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKarthik730&repo=osrm&theme=github_dark&hide_border=true" alt="osrm repository"/>
+  </a>
+  <a href="https://github.com/MKarthik730/Aegis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKarthik730&repo=Aegis&theme=github_dark&hide_border=true" alt="Aegis repository"/>
+  </a>
+  <a href="https://github.com/MKarthik730/cognitus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MKarthik730&repo=cognitus&theme=github_dark&hide_border=true" alt="Cognitus repository"/>
+  </a>
+</p>
