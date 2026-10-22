@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MKarthik730&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/MKarthik730?style=flat&logo=github&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat" alt="Open to internships"/>
 </p>
@@ -38,7 +37,7 @@
 
 ---
 
-### 🚀 Top Projects
+### 🛠️ Top Projects
 
 <table>
   <tr>
@@ -84,7 +83,7 @@
 
 <p>
   <a href="https://github.com/MKarthik730"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/karthik-motupalli-06b951318/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/karthik-motupalli-0b6951318/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:karthikmotupalli34@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://leetcode.com/u/Karthik172/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
